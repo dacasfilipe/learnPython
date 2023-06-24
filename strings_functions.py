@@ -9,4 +9,5 @@ print('https://sc.olx.com.br/?o=90&q=relogio'.replace('relogio', 'carro'))
  
 teclado = 'Teclado'
 print(teclado[2])
+teclado.index('l') # pega o índice 3
 #usar um indice para acessar a letra c 
