@@ -7,3 +7,6 @@ print(nome_curso.find('Py'))
 print(nome_curso.replace('Python', 'Linguagem'))
 print('https://sc.olx.com.br/?o=90&q=relogio'.replace('relogio', 'carro'))
  
+teclado = 'Teclado'
+print(teclado[2])
+#usar um indice para acessar a letra c 
