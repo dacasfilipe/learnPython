@@ -11,3 +11,4 @@ teclado = 'Teclado'
 print(teclado[2])
 teclado.index('l') # pega o índice 3
 #usar um indice para acessar a letra c 
+teclado.index(-1) # pega o índice -1
