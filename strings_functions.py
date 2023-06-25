@@ -12,3 +12,12 @@ print(teclado[2])
 teclado.index('l') # pega o índice 3
 #usar um indice para acessar a letra c 
 teclado.index(-1) # pega o índice -1
+
+frase1 = 'Desafio manipulação de strings'
+frase2 = 'jhonathan,rafael,carol,camila'
+#solução
+palavras1 = frase1.split()
+palavras2 = frase2.split(',')
+
+print(','.join(palavras1))
+print(' & '.join(palavras2))
