@@ -5,7 +5,6 @@ print(random.random())
 
 # Gera um valor decimal de Valor mínimo a Valor máximo
 print(random.uniform(4,10))
-
 #Gera um valor inteiro
 print(random.randint(4,10))
 

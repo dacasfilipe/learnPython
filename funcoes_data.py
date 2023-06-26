@@ -11,6 +11,7 @@ lancamento_app = datetime(2023,5,28)
 print(lancamento_app)
 #quero receber uma data
 data_lancamento = datetime.strptime(input('Quando devemos lançar o aplicativo?'),'%d/%m/%Y')
+
 print(type(data_lancamento))
 
 #calcular o intervalo entre uma data e outra
