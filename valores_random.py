@@ -17,3 +17,5 @@ cartas_baralho = ['carta1','carta2','carta3','carta4','carta5']
 print(random.shuffle(cartas_baralho))
 print(cartas_baralho)
 
+#atalhos vscode
+
