@@ -7,6 +7,8 @@ print(datetime.now().year)
 print(datetime.now().hour)
 
 #criar uma data
-datetime(2023,5,28)
+lancamento_app = datetime(2023,5,28)
+print(lancamento_app)
 #quero receber uma data
-
+data_lancamento = input('Quando devemos lançar o aplicativo?')
+print(data_lancamento)
