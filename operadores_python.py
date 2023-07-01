@@ -22,3 +22,10 @@ print(maior_de_idade and possui_carteira_de_trabalho)
 #Queremos contratar pessoas que ainda não possuem veículo próprio, mas
 #já possuam uma carteira de trabalho
 print(possui_carteira_de_trabalho == True and not possui_veiculo_proprio)
+
+#operadores de igualdade
+#Frases maiores
+a = 'Python é demais! E ainda nem estamos no topo!'
+b = 'Python é demais! E ainda nem estamso no topo!'
+print(a == b)
+print(a is b)
